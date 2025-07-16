@@ -25,7 +25,7 @@ I'm a passionate Full-stack software developer with a strong interest in MERN fu
 
 Here are some of my GitHub stats to showcase my contributions and activity:
 
-
+![](https://nirzak-streak-stats.vercel.app/?user=rohantandale1107&theme=dark&hide_border=true)<br/>
 
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rohantandale1107&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
