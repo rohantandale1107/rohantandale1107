@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rohantandale1107&color=brightgreen)
 ## About Me
 
-I'm a passionate full-stack software developer with a strong interest in MERN full stack development. 
+I'm a passionate Full-stack software developer with a strong interest in MERN full stack development. 
 
 **Want to know more about me 👉 [Personal Portfolio](https://rohans-bio.netlify.app)**
 
