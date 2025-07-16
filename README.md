@@ -65,7 +65,7 @@ Here are some of my GitHub stats to showcase my contributions and activity:
 
 ![rohantandale1107's Stats](https://github-readme-stats.vercel.app/api?username=rohantandale1107&theme=neon&show_icons=true&hide_border=true&count_private=true)
 ![rohantandale1107's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohantandale1107&theme=neon&hide_border=true)
-![rohantandale1107's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=&theme=neon&show_icons=true&hide_border=true&layout=compact)
+![rohantandale1107's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohantandale1107&theme=neon&show_icons=true&hide_border=true&layout=compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=rohantandale1107&color=brightgreen)
 
 
