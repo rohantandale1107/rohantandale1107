@@ -22,7 +22,6 @@ I'm a passionate full-stack software developer with a strong interest in MERN fu
 
 - **Frameworks and Libraries**:  
   <div align="left">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />  
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />  
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />  
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />  
@@ -50,11 +49,7 @@ I'm a passionate full-stack software developer with a strong interest in MERN fu
 - **Other Tools**:  
   <div align="left">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Machine_Learning-2C3E50?style=for-the-badge&logo=machine-learning&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Neural_Networks-2C3E50?style=for-the-badge&logo=neural-networks&logoColor=white" />  
-    <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
   </div>
 
 - **IDEs**:  
@@ -68,33 +63,11 @@ I'm a passionate full-stack software developer with a strong interest in MERN fu
 
 Here are some of my GitHub stats to showcase my contributions and activity:
 
-![adityajha2005's Stats](https://github-readme-stats.vercel.app/api?username=rohantandale1107&theme=neon&show_icons=true&hide_border=true&count_private=true)
-![adityajha2005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohantandale1107&theme=neon&hide_border=true)
-![adityajha2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohantandale1107&theme=neon&show_icons=true&hide_border=true&layout=compact)
+![rohantandale1107's Stats](https://github-readme-stats.vercel.app/api?username=rohantandale1107&theme=neon&show_icons=true&hide_border=true&count_private=true)
+![rohantandale1107's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohantandale1107&theme=neon&hide_border=true)
+![rohantandale1107's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohantandale1107&theme=neon&show_icons=true&hide_border=true&layout=compact)
 ![Profile Views](https://komarev.com/ghpvc/?username=rohantandale1107&color=brightgreen)
 
-
-
-## 🚀 Projects
-
-Here are some of the projects I've worked on:
-
-### [NexusHub](https://github.com/adityajha2005/nexushub)  
-- **Description**: NexusHub is a modern IT mentoring platform that bridges the gap between industry professionals and aspiring developers. It offers an interactive and responsive web interface for seamless knowledge sharing and career guidance.  
-- **Tech Stack**: HTML, CSS, Tailwind CSS, React, TypeScript.  
-- **Highlights**: Evolved into a paid gig and was further enhanced as a personal project for continued development and customization.  
-
-### [Routewise](https://github.com/adityajha2005/RouteWise-Main)
-- **Description**: Routewise is an AI-driven tool designed to help users create personalized roadmaps for their journeys. Whether you are planning a learning path, career development, or any other project, Routewise provides an intuitive interface to craft tailored roadmaps efficiently.  
-- **Tech Stack**: TypeScript, Next.js, Deepseek, MongoDB or MongoDB Atlas, Tailwind CSS, Shadcn UI
-- **Highlights**: Currently in development to be transformed into a SaaS platform, enabling scalable access to personalized roadmaps and journey guidance.  
-
-
-
-### [Daisy AI](https://github.com/adityajha2005/DaisyAI)
-- **Description**: Daisy AI is an intelligent assistant built using Python. It can interpret various commands such as managing a to-do list, playing music, opening WhatsApp, sending emails, and more, using the Gemini interpreter.
-- **Tech Stack**: Python, Gemini.
-- **Highlights**: Key features include natural language processing, task automation, and integration with various applications.
 
 
 
