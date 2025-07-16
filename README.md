@@ -1,6 +1,6 @@
 # Hi there, I'm Rohann 👋
 
-[![](https://visitcount.itsvg.in/api?id=rohantandale1107&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=rohantandale1107&color=brightgreen)
 ## About Me
 
 I'm a passionate full-stack software developer with a strong interest in MERN full stack development.I constantly strive to stay updated with the latest advancements in technology.
